@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sopan Bharkad</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="coding" width="500" margin="20%" src="https://user-images.githubusercontent.com/62322907/109534565-79863180-7ae1-11eb-97a9-3c7b68163b14.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sopan7654&label=Profile%20views&color=0e75b6&style=flat" alt="sopan7654" /> </p><br>
